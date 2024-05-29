@@ -72,3 +72,5 @@
 <img src="https://raw.githubusercontent.com/islomurodov/islomurodov/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![](https://komarev.com/ghpvc/?username=islomurodov)
