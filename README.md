@@ -19,26 +19,29 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="css3 logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" alt="expressjs logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="30" alt="mongoose logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="30" alt="prisma logo"  />
 </div>
 
 ###
