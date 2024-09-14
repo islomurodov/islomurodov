@@ -76,4 +76,5 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=islomurodov)
+![github profile views count](https://komarev.com/ghpvc/?username=islomurodov)
+[![wakatime](https://wakatime.com/badge/user/018e23ff-77bb-4c12-943c-ab3d16bfebfc.svg)](https://wakatime.com/@018e23ff-77bb-4c12-943c-ab3d16bfebfc)
